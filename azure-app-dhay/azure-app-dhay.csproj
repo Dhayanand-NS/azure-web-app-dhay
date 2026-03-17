@@ -5,7 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>azure_app_dhay</RootNamespace>
-    <ApplicationInsightsResourceId>/subscriptions/faed2541-2e20-4dca-8605-b15855b81d64/resourcegroups/az-course-dhayanand/providers/microsoft.insights/components/azure-app-dhay</ApplicationInsightsResourceId>
+    <ApplicationInsightsResourceId>/subscriptions/faed2541-2e20-4dca-8605-b15855b81d64/resourceGroups/az-course-dhayanand/providers/microsoft.insights/components/az-app-dhay</ApplicationInsightsResourceId>
     <UserSecretsId>e4484a56-4ce0-4a58-a2fd-72669bd97fab</UserSecretsId>
   </PropertyGroup>
 
