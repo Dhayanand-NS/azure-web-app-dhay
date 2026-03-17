@@ -5,6 +5,13 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>azure_app_dhay</RootNamespace>
+    <ApplicationInsightsResourceId>/subscriptions/faed2541-2e20-4dca-8605-b15855b81d64/resourcegroups/az-course-dhayanand/providers/microsoft.insights/components/azure-app-dhay</ApplicationInsightsResourceId>
+    <UserSecretsId>e4484a56-4ce0-4a58-a2fd-72669bd97fab</UserSecretsId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Identity" Version="1.17.1" />
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.23.0" />
+  </ItemGroup>
 
 </Project>
